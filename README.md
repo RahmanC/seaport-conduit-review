@@ -34,10 +34,10 @@ _(**Table: 1.2**: LocalConduit Audit Scope)_
 | Files in scope | SLOC |
 | :-------- | :------- |
 | Contracts: 1 | |
-| [`LocalConduit.sol`](https://github.com/ProjectOpenSea/seaport/blob/main/contracts/conduit/Conduit.sol) | `13` |
+| [`LocalConduit.sol`](https://github.com/ProjectOpenSea/seaport/blob/main/contracts/conduit/Conduit.sol) |  
 | | |
 | Imports: 1 | |
-| `Conduit.sol` (from seaport-core) | `432` |
+| `Conduit.sol` (from seaport-core) |  
 
 ### 1.3 Roles
 
